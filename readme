@@ -3,4 +3,6 @@ leptjson
 依照Milo Yip的从零开始的json库教程实现
 
 调用lept_parse实现json的解析，
-传入一个字符串，lept_parse将其转换为一个lept_value
+穿入一个字符串，lept_parse将其转换为一个lept_value
+
+目前能够实现解析布尔值，数字，字符串，支持utf8
