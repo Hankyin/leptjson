@@ -1,0 +1,6 @@
+leptjson 
+轻量的json解析库
+依照Milo Yip的从零开始的json库教程实现
+
+调用lept_parse实现json的解析，
+传入一个字符串，lept_parse将其转换为一个lept_value
